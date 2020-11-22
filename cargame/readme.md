@@ -1,5 +1,4 @@
 # Car game
 
-
-## Here goes the preview
-[![Watch the video](cargame/cargame.gif)]
+### Here goes the preview
+[![Giphy](cargame.gif)]
